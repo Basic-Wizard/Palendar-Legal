@@ -1,6 +1,6 @@
 # Privacy Policy
 
-This privacy policy applies to the Palendar app for mobile devices, together with any related services operated by Basic Wizard Stuff (collectively, the "Application"). Basic Wizard Stuff is hereby referred to as the "Service Provider".
+This privacy policy applies to the Palendar app for mobile devices, together with any related services operated by Basic Wizard Quorum (collectively, the "Application"). Basic Wizard Quorum is hereby referred to as the "Service Provider".
 
 ## Information Collection and Use
 
@@ -17,7 +17,7 @@ The Application or its third-party SDKs may use cookies, SDKs, pixels, and simil
 
 ## Your Rights
 
-You may request access to, correction of, or deletion of your personal data held by the Service Provider. To exercise these rights, or to withdraw consent where processing is based on consent, contact the Service Provider at Bonzo0618@gmail.com.
+You may request access to, correction of, or deletion of your personal data held by the Service Provider. You can delete your account and its data yourself at any time from inside the Application (see [Account Deletion](#account-deletion) below). To exercise your other rights, or to withdraw consent where processing is based on consent, contact the Service Provider at Bonzo0618@gmail.com.
 
 ## Your California privacy rights (CCPA/CPRA)
 
@@ -51,18 +51,35 @@ The Service Provider may disclose User Provided and Automatically Collected Info
 
 You can stop further collection of information from your mobile device by uninstalling the Application. Uninstalling will stop the Application from collecting data from your device, but it does not automatically delete information that has already been transmitted to the Service Provider or to third parties.
 
-To request deletion of your personal data, to withdraw consent, or to exercise any of your rights, contact the Service Provider at Bonzo0618@gmail.com.
+To delete your personal data, delete your account from inside the Application (see [Account Deletion](#account-deletion) below). To withdraw consent or to exercise any of your other rights, contact the Service Provider at Bonzo0618@gmail.com.
 
 ## Data Retention Policy
 
 The Service Provider retains personal data based on its necessity for the stated purposes:
 
-*   User Provided Data: Retained for the duration of your use of the Application plus 12 months thereafter, unless longer retention is required by law
+*   User Provided Data: Retained while your account exists. When you delete your account, it is deleted immediately, except for the limited data described in [Account Deletion](#account-deletion) below
 *   Automatically Collected Data: Retained for up to 24 months from collection, unless longer retention is required for legal compliance
 *   Aggregated and Anonymized Data: Retained indefinitely as it no longer identifies you
 *   Data required for legal compliance: Retained as long as required by applicable law
 
-You may request deletion of your personal data, subject to any legal obligation to retain it. If you want the Service Provider to delete User Provided Data submitted through the Application, please contact them at Bonzo0618@gmail.com. Please note that some User Provided Data may be required for the Application to function properly.
+You may delete your personal data, subject to any legal obligation to retain it, by deleting your account from inside the Application. If you no longer have the Application installed, contact the Service Provider at Bonzo0618@gmail.com. Please note that some User Provided Data may be required for the Application to function properly.
+
+## Account Deletion
+
+You can delete your account at any time from inside the Application: open the **Profile** tab, tap the menu icon (☰) to open Settings, then tap **Account** → **Delete account**. You'll be asked to re-enter your password, and your account is deleted immediately. If you no longer have the Application, email Bonzo0618@gmail.com from the address you signed up with and the Service Provider will delete your account within 7 days. Full details are on the [Delete your Palendar account](delete-account.html) page.
+
+When your account is deleted, the Service Provider deletes your profile, login, friends, calendar shares, blocks, availability, events you host (unless you hand them over to another user first), RSVPs, notification settings and device push tokens, reports you have filed, and the text of your chat messages. In shared chats, your messages are replaced with "Message from a deleted user".
+
+The Service Provider keeps only the following:
+
+*   Expenses you paid in other users' events, no longer linked to you and shown as paid by "Deleted user", so those events' totals stay correct for other people
+*   Groups and events you handed over to another user, which then belong to that user
+*   Reports other users filed about you, including a copy of any reported message, for up to 2 years, for safety and to prevent repeat abuse
+*   Copies in routine database backups, for up to 30 days
+
+## Safety Features: Blocking and Reporting
+
+If you block another user, the Service Provider stores a record of who you blocked so the block can be enforced. The blocked user is not notified. If you report a user or a message, the Service Provider stores the report, including the reason, any details you add, and a copy of the reported message, so it can be reviewed. The reported user is not told who reported them. Reports are reviewed by the Service Provider and used only to keep the Application safe.
 
 ## Children
 
@@ -84,7 +101,7 @@ The Service Provider may update this Privacy Policy from time to time. The Servi
 
 Previous versions of this Privacy Policy will be maintained and made available upon request by contacting the Service Provider at Bonzo0618@gmail.com.
 
-This privacy policy is effective as of 2026-07-18.
+This privacy policy is effective as of 2026-10-08.
 
 ## Your Consent
 
