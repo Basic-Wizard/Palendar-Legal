@@ -10,7 +10,7 @@ You must be **at least 13 years old** to use the App. If you're under 18 (or the
 
 ## 2. Your account
 
-Give accurate information when you sign up and keep your password secure. You're responsible for what happens on your account. Tell us at Bonzo0618@gmail.com if you think someone else has accessed it. Don't create accounts for other people, sell or transfer your account, or create a new account after we've removed you.
+Give accurate information when you sign up and keep your password secure. You're responsible for what happens on your account. Tell us at privacy@basicwizardquorum.com if you think someone else has accessed it. Don't create accounts for other people, sell or transfer your account, or create a new account after we've removed you.
 
 ## 3. Community rules: zero tolerance for abuse
 
@@ -78,4 +78,4 @@ These extra terms apply if you downloaded the App from the App Store:
 
 ## 14. Contact
 
-Questions, reports, or legal notices: **Bonzo0618@gmail.com**.
+Questions, reports, or legal notices: **privacy@basicwizardquorum.com**.

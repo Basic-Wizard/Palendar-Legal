@@ -18,7 +18,7 @@ Your account is deleted immediately once you confirm.
 
 ## Don't have the app anymore?
 
-Email **Bonzo0618@gmail.com** from the email address you signed up with, with the subject **"Delete my Palendar account"**. Include your Palendar username if you remember it.
+Email **privacy@basicwizardquorum.com** from the email address you signed up with, with the subject **"Delete my Palendar account"**. Include your Palendar username if you remember it.
 
 We'll confirm the request came from you, delete the account within **7 days**, and email you when it's done.
 
@@ -41,4 +41,4 @@ We'll confirm the request came from you, delete the account within **7 days**, a
 
 ## Questions
 
-Contact us at **Bonzo0618@gmail.com**. See our [Privacy Policy](privacy.html) for more about how Palendar handles your data.
+Contact us at **privacy@basicwizardquorum.com**. See our [Privacy Policy](privacy.html) for more about how Palendar handles your data.

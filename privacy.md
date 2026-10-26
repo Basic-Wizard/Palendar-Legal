@@ -17,11 +17,11 @@ The Application or its third-party SDKs may use cookies, SDKs, pixels, and simil
 
 ## Your Rights
 
-You may request access to, correction of, or deletion of your personal data held by the Service Provider. You can delete your account and its data yourself at any time from inside the Application (see [Account Deletion](#account-deletion) below). To exercise your other rights, or to withdraw consent where processing is based on consent, contact the Service Provider at Bonzo0618@gmail.com.
+You may request access to, correction of, or deletion of your personal data held by the Service Provider. You can delete your account and its data yourself at any time from inside the Application (see [Account Deletion](#account-deletion) below). To exercise your other rights, or to withdraw consent where processing is based on consent, contact the Service Provider at privacy@basicwizardquorum.com.
 
 ## Your California privacy rights (CCPA/CPRA)
 
-If you are a California resident, you have the right to know what personal information is collected, the right to delete personal information, the right to opt out of the sale or sharing of personal information, and the right to non-discrimination for exercising these rights. To exercise your CCPA/CPRA rights, contact the Service Provider at Bonzo0618@gmail.com.
+If you are a California resident, you have the right to know what personal information is collected, the right to delete personal information, the right to opt out of the sale or sharing of personal information, and the right to non-discrimination for exercising these rights. To exercise your CCPA/CPRA rights, contact the Service Provider at privacy@basicwizardquorum.com.
 
 The Service Provider may use the information you provide to send important information, required notices, and, where permitted by law, marketing communications.
 
@@ -51,7 +51,7 @@ The Service Provider may disclose User Provided and Automatically Collected Info
 
 You can stop further collection of information from your mobile device by uninstalling the Application. Uninstalling will stop the Application from collecting data from your device, but it does not automatically delete information that has already been transmitted to the Service Provider or to third parties.
 
-To delete your personal data, delete your account from inside the Application (see [Account Deletion](#account-deletion) below). To withdraw consent or to exercise any of your other rights, contact the Service Provider at Bonzo0618@gmail.com.
+To delete your personal data, delete your account from inside the Application (see [Account Deletion](#account-deletion) below). To withdraw consent or to exercise any of your other rights, contact the Service Provider at privacy@basicwizardquorum.com.
 
 ## Data Retention Policy
 
@@ -62,11 +62,11 @@ The Service Provider retains personal data based on its necessity for the stated
 *   Aggregated and Anonymized Data: Retained indefinitely as it no longer identifies you
 *   Data required for legal compliance: Retained as long as required by applicable law
 
-You may delete your personal data, subject to any legal obligation to retain it, by deleting your account from inside the Application. If you no longer have the Application installed, contact the Service Provider at Bonzo0618@gmail.com. Please note that some User Provided Data may be required for the Application to function properly.
+You may delete your personal data, subject to any legal obligation to retain it, by deleting your account from inside the Application. If you no longer have the Application installed, contact the Service Provider at privacy@basicwizardquorum.com. Please note that some User Provided Data may be required for the Application to function properly.
 
 ## Account Deletion
 
-You can delete your account at any time from inside the Application: open the **Profile** tab, tap the menu icon (☰) to open Settings, then tap **Account** → **Delete account**. You'll be asked to re-enter your password, and your account is deleted immediately. If you no longer have the Application, email Bonzo0618@gmail.com from the address you signed up with and the Service Provider will delete your account within 7 days. Full details are on the [Delete your Palendar account](delete-account.html) page.
+You can delete your account at any time from inside the Application: open the **Profile** tab, tap the menu icon (☰) to open Settings, then tap **Account** → **Delete account**. You'll be asked to re-enter your password, and your account is deleted immediately. If you no longer have the Application, email privacy@basicwizardquorum.com from the address you signed up with and the Service Provider will delete your account within 7 days. Full details are on the [Delete your Palendar account](delete-account.html) page.
 
 When your account is deleted, the Service Provider deletes your profile, login, friends, calendar shares, blocks, availability, events you host (unless you hand them over to another user first), RSVPs, notification settings and device push tokens, reports you have filed, and the text of your chat messages. In shared chats, your messages are replaced with "Message from a deleted user".
 
@@ -99,7 +99,7 @@ If a data breach occurs that affects your personal data, the Service Provider wi
 
 The Service Provider may update this Privacy Policy from time to time. The Service Provider will notify you of material changes by posting the updated Privacy Policy with an effective date. Where required by law, the Service Provider will seek your consent to material changes before they take effect.
 
-Previous versions of this Privacy Policy will be maintained and made available upon request by contacting the Service Provider at Bonzo0618@gmail.com.
+Previous versions of this Privacy Policy will be maintained and made available upon request by contacting the Service Provider at privacy@basicwizardquorum.com.
 
 This privacy policy is effective as of 2026-10-08.
 
@@ -109,7 +109,7 @@ Where processing is based on consent, you provide that consent by affirmatively 
 
 ## Contact Us
 
-If you have any questions regarding privacy while using the Application, or have questions about the practices, please contact the Service Provider via email at Bonzo0618@gmail.com.
+If you have any questions regarding privacy while using the Application, or have questions about the practices, please contact the Service Provider via email at privacy@basicwizardquorum.com.
 
 ---
 
